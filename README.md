@@ -7,3 +7,5 @@ This is the most straightforward version of the Exotic Animal Lorem Ipsum Genera
 Example Output:
 
 “The elephant stomped through the jungle, its massive ears flapping like a cape. A flamingo stood nearby, surveying the terrain with its sharp eyes.”
+
+O Enzo é um gato
